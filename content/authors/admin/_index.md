@@ -1,0 +1,52 @@
+---
+authors:
+- admin
+bio: My research interests include machine learning and toxicology and how the two can help each other move forward.
+
+education:
+  courses:
+  - course: PhD Machine Learning in Biomedical Data
+    institution: Sydney University
+    year: 2007
+  - course: BmedSc(Hons) 
+    institution: Sydney University
+    year: 2005
+  - course: Graduate Certificate in Higher Education
+    institution: Sydney University
+    year: 2011
+  - course: Diploma in Education
+    institution: University of NSW
+    year: 2005
+email: ""
+interests:
+- Artificial Intelligence
+- Computational Toxicology
+- Pharmacokinetics
+name: Slade Matthews
+organizations:
+- name: The University of Sydney
+  url: ""
+role: Senior Lecturer in Toxicology and Pharmacology
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/sladem
+#- icon: google-scholar
+#  icon_pack: ""
+#  link: """
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sladem-commits
+superuser: true
+user_groups:
+- Researchers
+- Visitors
+---
+
+Slade Matthews is a senior lecturer in toxicology and pharmacology at the University of Sydney. Slade's lab is the Pharmacoinformatics Laboratory.
+
+The PharmacoInformatics Laboratory uses computer technologies to uncover new relationships in biomedical data. PharmacoInformatics incorporates the principles of computerised data management, machine learning techniques and complexity analysis in a pharmacology context. These techniques as well as applied statistics are used on a range of problems in this lab including clinical observational studies and studies based on analysis of laboratory data.
+
