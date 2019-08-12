@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning, toxicology, QSAR | Dr Slade Matthews</title>
+    <link>/tags/deep-learning-toxicology-qsar/</link>
+      <atom:link href="/tags/deep-learning-toxicology-qsar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning, toxicology, QSAR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Deep Learning, toxicology, QSAR</title>
+      <link>/tags/deep-learning-toxicology-qsar/</link>
+    </image>
+    
+    <item>
+      <title>IN SILICO TOX</title>
+      <link>/project/in-silico-tox/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/in-silico-tox/</guid>
+      <description>&lt;p&gt;Using state of the art tools inlcuding NVIDIA Titan V powered GPU based deep learning models we are building new models to predict toxicological outcomes. A key question for us in &amp;ldquo;how can a computer understand what a molecules looks like?&amp;rdquo; We are exploring new methods for molecular representation and new machine learning paradigms to build predictive relationships between those representations and toxicological effects. Chemical mutatgenicity is a key area of interest for chemical regulators world-wide. Out laboratory collaborates with our Federal regulator of chemicals to expidite the assessment and classification of chemicals in the Australian context. This work has world-wide ramifications for chemical regualtion practice.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

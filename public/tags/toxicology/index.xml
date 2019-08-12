@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toxicology | Dr Slade Matthews</title>
+    <link>/tags/toxicology/</link>
+      <atom:link href="/tags/toxicology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Toxicology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Toxicology</title>
+      <link>/tags/toxicology/</link>
+    </image>
+    
+    <item>
+      <title>Honours Projects</title>
+      <link>/project/honours-projects/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/honours-projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
