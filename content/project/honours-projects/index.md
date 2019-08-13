@@ -7,5 +7,5 @@ image:
 summary: A link to my university website with a list of honours projects.
 tags:
 - Toxicology
-title: Honours Projects
+title: External Projects
 ---
