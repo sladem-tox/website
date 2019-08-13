@@ -41,20 +41,20 @@
     </item>
     
     <item>
+      <title>IN SILICO TOX</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Using state of the art tools inlcuding NVIDIA Titan V powered GPU based deep learning models we are building new models to predict toxicological outcomes. A key question for us in &amp;ldquo;how can a computer understand what a molecules looks like?&amp;rdquo; We are exploring new methods for molecular representation and new machine learning paradigms to build predictive relationships between those representations and toxicological effects. Chemical mutatgenicity is a key area of interest for chemical regulators world-wide. Out laboratory collaborates with our Federal regulator of chemicals to expidite the assessment and classification of chemicals in the Australian context. This work has world-wide ramifications for chemical regualtion practice.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Honours Project</title>
       <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>In Silico Toxicology Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Using state of the art tools inlcuding NVIDIA Titan V powered GPU based deep learning models we are building new models to predict toxicological outcomes. A key question for us in &amp;ldquo;how can a computer understand what a molecules looks like?&amp;rdquo; We are exploring new methods for molecular representation and new machine learning paradigms to build predictive relationships between those representations and toxicological effects. Chemical mutatgenicity is a key area of interest for chemical regulators world-wide. Out laboratory collaborates with our Federal regulator of chemicals to expidite the assessment and classification of chemicals in the Australian context. This work has world-wide ramifications for chemical regualtion practice.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
