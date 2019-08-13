@@ -13,7 +13,7 @@ links:
 summary: Can spaced repetition help medical students learning pharmacology?
 tags:
 - Pharmacology, Education
-title: Education Projects
+title: Education Project
 url_code: ""
 url_pdf: ""
 url_slides: ""
