@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565676711945.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3704233713",
+    "id" : "9A27787F",
+    "lastKnownWriteTime" : 1565676726,
+    "last_content_update" : 1565676726914,
+    "path" : "~/GitHub/website/content/authors/admin/_index.md",
+    "project_path" : "content/authors/admin/_index.md",
+    "properties" : {
+        "cursorPosition" : "41,37",
+        "scrollLine" : "16"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

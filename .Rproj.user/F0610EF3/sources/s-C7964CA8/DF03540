@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565676438004.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3768668593",
+    "id" : "DF03540",
+    "lastKnownWriteTime" : 1565660920,
+    "last_content_update" : 1565660920,
+    "path" : "~/GitHub/website/netlify.toml",
+    "project_path" : "netlify.toml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
