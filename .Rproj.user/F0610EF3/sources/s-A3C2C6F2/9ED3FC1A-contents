@@ -3,7 +3,7 @@ date: "2019-08-27T00:00:00Z"
 external_link: ""
 image:
   caption: "Photo by Vasily Koloda on Unsplash"
-  focal_point: Smart
+  focal_point: ""
 links:
 - icon: twitter
   icon_pack: fab
