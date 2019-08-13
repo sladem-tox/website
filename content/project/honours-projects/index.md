@@ -4,7 +4,7 @@ external_link: http://sydney.edu.au/medicine/people/academics/profiles/slade.mat
 image:
   caption: "Photo by William Ivan on Unsplash"
   focal_point: ""
-summary: A link to my university website with a list of honours projects `USYD_link`.
+summary: A link to my university website with a list of honours projects.
 tags:
 - Toxicology
 title: Honours Projects
