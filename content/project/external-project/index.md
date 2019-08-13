@@ -4,7 +4,7 @@ external_link: http://sydney.edu.au/medicine/people/academics/profiles/slade.mat
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: A link to my university website with a list of honours projects.
 tags:
 - Demo
 title: External Project
