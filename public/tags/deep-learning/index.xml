@@ -1,52 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Dr Slade Matthews</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <title>Deep Learning | Dr Slade Matthews</title>
+    <link>/tags/deep-learning/</link>
+      <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
     </image>
-    
-    <item>
-      <title>Education Projects</title>
-      <link>/project/education-projects/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/education-projects/</guid>
-      <description>&lt;p&gt;Using spaced repetition resources such as ANKI cards I am hoping to improve student performance in pharmacology courses at The University of Sydney. My hypothesis is that students will remember the higher level concepts in pharmacology more easily if we support them to memorise salient facts, words and meanings onto which they can build their understanding.&lt;/p&gt;
-
-&lt;p&gt;A systematic review of the literature revealed that spaced education interventions in a variety of implementations increased final scores for students in medical courses. On the strength of that evidence and with financial support from the Education Portfolio at The University of Sydney I have begun to implement a spaced education strategy with students studying pharmacology in courses accross the university. Students from Nursing, Pharmacy, Exercise Pharmacology, and Pharmacology in Science have participated in this intervention.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Projects</title>
-      <link>/project/honours-projects/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/honours-projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IN SILICO TOX</title>
-      <link>/project/in-silico-tox/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/in-silico-tox/</guid>
-      <description>&lt;p&gt;Using state of the art tools inlcuding NVIDIA Titan V powered GPU based deep learning models we are building new models to predict toxicological outcomes. A key question for us in &amp;ldquo;how can a computer understand what a molecules looks like?&amp;rdquo; We are exploring new methods for molecular representation and new machine learning paradigms to build predictive relationships between those representations and toxicological effects. Chemical mutatgenicity is a key area of interest for chemical regulators world-wide. Out laboratory collaborates with our Federal regulator of chemicals to expidite the assessment and classification of chemicals in the Australian context. This work has world-wide ramifications for chemical regualtion practice.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Internal Project</title>
