@@ -7,5 +7,5 @@ image:
 summary: A link to my university website with a list of honours projects.
 tags:
 - Demo
-title: External Project
+title: Honours Project
 ---
